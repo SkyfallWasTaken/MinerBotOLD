@@ -1,0 +1,22 @@
+{
+  "name": "minerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "bad-words": "^3.0.4",
+    "discord.js": "^13.2.0",
+    "mineflayer": "^3.11.2",
+    "mineflayer-pathfinder": "^1.8.0",
+    "prismarine-viewer": "^1.20.0",
+    "unzalgo": "^3.0.0"
+  }
+}
